@@ -1,14 +1,15 @@
 import React from 'react';
-import {SafeAreaView, View, Flatlist, Text, Image } from 'react-native';
+import {SafeAreaView, View, Flatlist, Text} from 'react-native';
 
 function App() {
   return (
     <SafeAreaView>
       <View>
-      <Text>cc</Text>
+        <Text>Test</Text>
+
       </View>
     </SafeAreaView>
-);
+  );
 }
 
 export default App;
