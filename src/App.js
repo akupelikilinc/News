@@ -6,7 +6,7 @@ import news_data from './news_data.json';
 
 function App() {
   return (
-    <SafeAreaView>
+    <SafeAreaView >
       <View >
         
         <FlatList 

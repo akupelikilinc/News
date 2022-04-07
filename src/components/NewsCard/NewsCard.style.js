@@ -14,6 +14,14 @@ export default StyleSheet.create({
     title :{
         fontSize : 18,
         fontWeight : 'bold',
-        
+
+    },
+    author:{
+        textAlign : 'right',
+        fontStyle : 'italic',
+        fontSize : 16,
+        fontWeight : 'bold',
+        color : 'orange'
+    
     }
 })
